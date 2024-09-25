@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     private void aboba() {
-        text = "ab";
+        text = "aertrgb";
 
 
     }
